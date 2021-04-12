@@ -1,0 +1,59 @@
+html{
+  box-sizing: border-box;
+}
+*,*:before,*:after{
+  box-sizing: inherit;
+}
+
+
+header{
+  background-color: #EFE4D5
+}
+
+section{
+overflow: hidden;
+border-bottom: 1px black;
+padding: 25px 0;
+}
+
+.history img {
+  max-width:220px;
+  float: left;
+  margin-right: : 20px;
+  padding-right: 20px;
+  display: block;
+
+
+}
+
+h1{
+  text-align:center;
+  font: Bold 100px helvetica, sans-serif;
+  margin:auto;
+  color:#5B401C}
+
+h2{color:rgb(142, 123, 97)}
+
+figcaption{
+  text-align: inherit;
+
+
+}
+
+.background{
+background-image: url(../projct0/Images/Preparazione.jpg);
+background-size: cover;
+background-position: center;
+
+
+}
+
+.Ingredients{
+
+}
+
+footer{
+  padding: 16px;
+  background-color: #4A3908
+
+}
